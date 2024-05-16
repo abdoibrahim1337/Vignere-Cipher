@@ -23,7 +23,7 @@ This program implements the Vigenere Cipher, a method of encrypting alphabetic t
 - **LICENSE**: The license file specifying usage rights and restrictions.
 
 ## Development
-This program was developed as an assignment for the Programming 1 course at FCAI in 2022 by Abdulrahman Ibrahim (ID: 20210193).
+This program was developed as an assignment for the Programming 1 course at FCAI in 2022 by Abdulrahman Ibrahim
 
 ## Last Modification
 The program was last modified on 23rd March 2022.
